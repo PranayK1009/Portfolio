@@ -1,0 +1,59 @@
+{
+ "name": "Pranay Kochuri",
+ "eyebrow": "IB Diploma Candidate · Class of 2027",
+ "lede": "Projects, research and leadership in robotics, aerospace and machine learning.",
+ "meta": [
+  "Hyderabad, India",
+  "U.S. Citizen",
+  "Aspiring Aerospace / Mechanical / Robotics Engineer"
+ ],
+ "updates": [
+  {
+   "text": "Completed a one-month drone internship at Thanos Technologies in Hyderabad, covering drone marketing and the technical side of different drone types.",
+   "status": "complete"
+  },
+  {
+   "text": "Appointed Technical Head for the FTC team competing at APOC Australia 2026.",
+   "status": "upcoming"
+  },
+  {
+   "text": "Completed the NUS Artificial Intelligence & Machine Learning Programme — awarded Best Student for leading a 3-model airline customer satisfaction predictor as Team Captain.",
+   "status": "complete"
+  },
+  {
+   "text": "Avengers Army, the FTC team of deaf and mute students I helped mentor, won FTC Regionals and placed Top 25 at FTC Nationals.",
+   "status": "complete"
+  }
+ ],
+ "awards": [
+  {
+   "award": "2nd Place, Inspire Award",
+   "context": "FTC Regionals"
+  },
+  {
+   "award": "2nd Place, Innovate Award",
+   "context": "FTC Nationals"
+  },
+  {
+   "award": "Special Mention Award",
+   "context": "University of Sydney India Innovation Challenge — Pollination Robot"
+  },
+  {
+   "award": "Best Student Award",
+   "context": "NUS Artificial Intelligence & Machine Learning Programme"
+  },
+  {
+   "award": "Best Journalist",
+   "context": "Model United Nations — Lok Sabha simulation"
+  },
+  {
+   "award": "Special Mention Delegate",
+   "context": "Model United Nations"
+  },
+  {
+   "award": "Trinity Grade 2 Distinction — Guitar",
+   "context": "Trinity College London"
+  }
+ ],
+ "footer": "Pranay Kochuri — Portfolio, IB Class of 2027"
+}
